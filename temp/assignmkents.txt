@@ -1,0 +1,20 @@
+#assignment 
+euclid gcd-> show table number should be more than 50 digits
+ext euclid 
+multiplicative inverse
+
+
+# implementation of RSA
+encryption and decryption of text not only numbers
+min 150 digit numbers
+check if given input is prime or not
+min 512 bits for p and q
+
+#prime factorization challenge by RSA
+n is given find the two prime factors of n
+plot graph and give estimate time to crack 100 digit prime number
+
+#defie hellman key exchange, 2 programs on separate machines
+
+#implementation of chinease ramainder theoram
+
